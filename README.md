@@ -1,1 +1,3 @@
-this is page is dedicated to following my progress at Python
+This is page is dedicated to following my progress at Python
+---
+By Bexruz
